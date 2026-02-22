@@ -1,6 +1,6 @@
-# Cloud Computing Micro Project
+## Cloud Computing Micro Project
 
-##  Description
+###  Description
 This project is a Web API built with FastAPI for manipulating PDFs in binary format.
 
 It provides two endpoints:
@@ -12,7 +12,7 @@ Swagger documentation is automatically generated.
 
 ---
 
-##  Technologies Used
+###  Technologies Used
 - Python
 - FastAPI
 - Uvicorn
@@ -20,18 +20,18 @@ Swagger documentation is automatically generated.
 
 ---
 
-##  How to Run
+###  How to Run
 
-###  Install dependencies
+####  Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
-### Run the server
+#### Run the server
 ```bash
 uvicorn main:app --reload
 ```
 
-### Open Swagger
+#### Open Swagger
 ```bash
 http://127.0.0.1:8000/docs
-```"# Cloud-microproject" 
+```
