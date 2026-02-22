@@ -13,7 +13,7 @@ Swagger documentation is automatically generated.
 ---
 
 ##  API Preview
-
+---
 ![Swagger Screenshot](Cloud.png)
 
 ###  Technologies Used
