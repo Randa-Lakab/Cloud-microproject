@@ -12,10 +12,11 @@ Swagger documentation is automatically generated.
 
 ---
 
-##  API Preview
----
+###  API Preview
+
 ![Swagger Screenshot](Cloud.png)
 
+---
 ###  Technologies Used
 - Python
 - FastAPI
